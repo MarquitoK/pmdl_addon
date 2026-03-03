@@ -6,8 +6,12 @@ FLAGS_ESPECIALES = {
     0x00: "Ninguna",
     0x01: "Equipamiento 1",
     0x02: "Equipamiento 2",
+    0x03: "Desconocido 0x03",
+    0x04: "Desconocido 0x04",
+    0x05: "Desconocido 0x05",
     0x06: "Cara",
-    0x07: "Ocultable"
+    0x07: "Ocultable",
+    0x08: "Desconocido 0x08",
 }
 
 
